@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BioExtend</string>
+    <string name="title_activity_main">BioExtend</string>
+    <string name="package_name">com.bioextend.app</string>
+    <string name="custom_url_scheme">com.bioextend.app</string>
+</resources>
